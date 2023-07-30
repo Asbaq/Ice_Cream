@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GameScene.unity
+    path: Assets/Scenes/Ice_Cream.unity
     guid: 1d20cca16bb630044940e1b6e21cae29
   m_configObjects: {}
