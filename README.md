@@ -8,6 +8,10 @@ Ice Cream Game is a Unity-based simulation where players control an ice cream ma
 ## Player Interaction 🔄
 The player controls an ice cream machine to dispense different flavors (Chocolate, Vanilla, Strawberry) while following a predefined path.
 
+🔗 Video Trailer
+
+https://youtu.be/Xp8l3L7drFA?si=8KnVD3dAGRO2nz7r
+
 ### Key Features 🔐
 - Real-time cream dispensing system.
 - Smooth machine movement along a Bezier curve.
